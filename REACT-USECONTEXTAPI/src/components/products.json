@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Casual Sneakers",
+        "price": 699,
+        "image": "https://img.freepik.com/free-photo/man-sporting-white-sneakers_91128-3726.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Leather Boots",
+        "price": 860,
+        "image": "https://img.freepik.com/premium-vector/realistic-vector-illustration-new-black-leather-boot-white-background_272204-23134.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "price": 799,
+        "image": "https://img.freepik.com/premium-photo/running-shoes_1165811-200.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Loafers",
+        "price": 490,
+        "image": "https://img.freepik.com/free-photo/new-background-classic-man-black_1203-6540.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Slip-On Sneakers",
+        "price": 649,
+        "image": "https://img.freepik.com/free-photo/woman-shoes-isolated_1203-7415.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Formal Oxfords",
+        "price": 2499,
+        "image": "https://img.freepik.com/free-photo/male-brown-footwear-close-up_1303-10300.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Chelsea Boots",
+        "price": 580,
+        "image": "https://img.freepik.com/premium-psd/magnificent-chelsea-boots-isolated-transparent-background_1036186-2170.jpg?w=360"
+    },
+    {
+        "id": 8,
+        "name": "Brogue Shoes",
+        "price": 699,
+        "image": "https://img.freepik.com/free-photo/elevated-view-man-s-foot-pebble-tying-shoelace_23-2148164524.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Hiking Boots",
+        "price": 699,
+        "image": "https://img.freepik.com/free-photo/person-wearing-brown-ivory-laceup-boots_60438-3578.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Boat Shoes",
+        "price": 699,
+        "image": "https://img.freepik.com/premium-photo/pair-hairy-man-legs-pants-topsiders_70898-2166.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Combat Boots",
+        "price": 599,
+        "image": "https://img.freepik.com/free-photo/lifestyle-ecofriendly-person_23-2149125182.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 12,
+        "name": "Work Boots",
+        "price": 799,
+        "image": "https://img.freepik.com/free-photo/yacht-dress-suit-pleasing-luxury_1303-375.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Canvas Sneakers",
+        "price": 899,
+        "image": "https://img.freepik.com/free-vector/realistic-vector-icon-white-running-sneakers-with-lace-sport-shoes-isolated-white-transpar_134830-1186.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Athletic Sneakers",
+        "price": 929,
+        "image": "https://img.freepik.com/free-photo/pair-trainers_144627-3809.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Flip-Flops",
+        "price": 299,
+        "image": "https://img.freepik.com/free-vector/pair-sandals_1308-85563.jpg?semt=ais_hybrid"
+    }
+]
